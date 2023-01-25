@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ianamo (Ian M)
-- 👀 I’m interested in Python for software and web development. Might start branching out to other languages as well.
-- 🌱 I’m currently learning Python!
+- 👋 Hi, I’m @ianamo (Ian Mosley)
+- 👀 I’m interested in web development and Python.
+- 🌱 I’m currently learning even more about CSS and JS (it's never ending!)
 - 📫 How to reach me: ianamo86@gmail.com
 
 <!---
